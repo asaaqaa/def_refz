@@ -1,13 +1,13 @@
-FROM Tepthonee/PPF22:alpine
+FROM asaaqaa/ASAAQALIAS:alpine
 
 #clonning repo 
-RUN git clone https://github.com/Tepthonee/PPF22/tree/master.git /root/zthon
+RUN git clone https://github.com/asaaqaa/ASAAQALIAS/tree/main.git /root/AsAs
 #working directory 
-WORKDIR /root/zthon
+WORKDIR /root/AsAs
 
 # Install requirements
 RUN pip3 install -U -r requirements.txt
 
-ENV PATH="/home/zthon/bin:$PATH"
+ENV PATH="/home/AsAs/bin:$PATH"
 
-CMD ["python3","-m","zthon"]
+CMD ["python3","-m","AsAs"]

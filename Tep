@@ -88,7 +88,7 @@ _start_bot () {
     echo "
 
     "
-    python3 -m Reed
+    python3 -m AsAs
 }
 
 _start_bot

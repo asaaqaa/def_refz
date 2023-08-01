@@ -1,6 +1,6 @@
 {
-  "name": "سورس ريفز -يوزر بوت",
-  "description": "اهلا وسهلا بكم في سورس ريفز",
+  "name": "سورس الامبراطور -يوزر بوت",
+  "description": "اهلا وسهلا بكم في سورس الامبراطور",
   "logo": "https://telegra.ph/file/56e7f4436f779aafd9ab9.jpg",
   "keywords": [
     "plugin",
@@ -56,7 +56,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره ابدا",
-      "value": "https://github.com/asaaqaa/Radb",
+      "value": "https://github.com/asaaqaa/ASAAQALIAS",
       "required": false
     }
     },
